@@ -2,7 +2,8 @@
 title: Welcome to my blog
 ---
 
-# SeeDubLancaster Blog - random musings on Web Security, PKM, python, etc.
+# SeeDubLancaster Blog
+## random musings on Web Security, PKM, python, etc.
 
 ## Under Construction :hammer:
 ### :construction: Please pardon our appearance while undergo some construction... :construction:
